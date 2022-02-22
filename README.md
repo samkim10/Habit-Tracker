@@ -1,6 +1,7 @@
 # Habit Challenger
+Orginally from: https://github.com/csc309-fall-2020/team50, as one of the members. Cloned and made public.
 
-link : https://peaceful-fjord-41441.herokuapp.com/
+link : https://peaceful-fjord-41441.herokuapp.com/ (Currently Down)
 
 The website will provide users a way to keep track of their habits, and compete their own record with others. Also a forum is provided for users to chat and exchange their experience.
 this web app is made with Vue.js
